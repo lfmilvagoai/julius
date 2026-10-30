@@ -46,7 +46,7 @@ You've discovered an open port during a security assessment. Is it Ollama on por
 
 | Feature | Description |
 |---------|-------------|
-| **64 LLM Services** | Detects Ollama, vLLM, LiteLLM, LocalAI, Hugging Face TGI, AWS Bedrock, and 58 more |
+| **65 LLM Services** | Detects Ollama, vLLM, LiteLLM, LocalAI, Hugging Face TGI, AWS Bedrock, and 59 more |
 | **Fast Scanning** | Concurrent probing with intelligent port-based prioritization |
 | **Model Discovery** | Extracts available models from identified endpoints |
 | **Specificity Scoring** | 1-100 scoring ranks results by most specific match (e.g., LiteLLM over generic OpenAI-compatible) |
